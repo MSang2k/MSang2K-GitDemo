@@ -1,4 +1,5 @@
+#include <iostream>
 void print(int x)
 {
-  cout << "Sum is: " << x << endl;
+  std::cout << "Sum is: " << x << std::endl;
 }
