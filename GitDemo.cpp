@@ -7,6 +7,7 @@ int main()
     cout << "Create by: ";
     cout << "Nguyen Minh Sang" << endl;
     cout << "HCMUTE" << endl;
+    int Sum = sum(6, 9);
     return 0;
 }
 
