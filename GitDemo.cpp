@@ -1,10 +1,12 @@
 #include <iostream>
+#include "MyMath.h"
 
 using namespace std;
 
 int main()
 {
     cout << "Nguyen Minh Sang" << endl;
+    int Sum = sum(6, 9);
     return 0;
 }
 
