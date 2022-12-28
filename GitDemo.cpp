@@ -1,5 +1,6 @@
 #include <iostream>
 #include "MyPrint.cpp"
+#include "MyMath.h"
 
 using namespace std;
 
